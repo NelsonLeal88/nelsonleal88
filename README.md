@@ -1,16 +1,17 @@
-### Hi there 👋
+### Acerca de mí👋
 
-<!--
-**NelsonLeal88/nelsonleal88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Hola! Soy Nelson Leal,
+Me especializo en Analisis de Datos y manejo las siguientes herramientas:
+Python, SQL, Apache, Spark, Docker, Hadoop, Power Bi, Google Analytics, Machine Learning y Big Data.
 
-Here are some ideas to get you started:
+Me encanta colaborar en equipo y enfrentar desafíos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+¡Estoy entusiasmado por las oportunidades que el campo de la Ciencia de Datos ofrece y estoy listo para enfrentar nuevos desafíos junto a un equipo dinámico!
+
+🌐Sociales:
+LinkedIn
+
+💻Pila de tecnología:
+Pitón Reducción Nube de Google API rápida flujo de aire apache mysql MongoDB pandas NumPy scikit-aprender Estibador jira Trello
+
+
